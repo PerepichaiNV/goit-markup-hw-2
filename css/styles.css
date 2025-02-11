@@ -1,6 +1,6 @@
 body {
-    font font-family: "roboto", "raleway"; 
-    background-color: "var(--white)";
+    font font-family: "roboto", sans-serif; 
+    background-color: #FFFFFF;
 color: #434455;
 }
 a {
